@@ -1,2 +1,2 @@
 # coffecafer.web
-this is my first gir repository
+this is my first git repository
